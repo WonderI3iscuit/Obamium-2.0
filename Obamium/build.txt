@@ -1,0 +1,3 @@
+displayName = The Obama Mod
+author = Benjamin
+version = 0.1
