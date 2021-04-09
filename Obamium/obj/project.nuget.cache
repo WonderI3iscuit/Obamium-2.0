@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ngqooosla+aMdXZ4PvkmyiL5TBW15f7FPzjZbSHI2zJfARJiKHBrzXhnSg7awEVE5sg4GB9bDj555QSJ3C+uew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mcelhinny_benjamin\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Obamium\\Obamium.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mcelhinny_benjamin\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

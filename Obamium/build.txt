@@ -1,3 +1,3 @@
 displayName = The Obama Mod
-author = Benjamin
+author = Ben and Omar
 version = 0.1

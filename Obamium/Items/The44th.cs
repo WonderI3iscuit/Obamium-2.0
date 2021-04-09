@@ -8,7 +8,7 @@ namespace Obamium.Items
 		public override void SetStaticDefaults() 
 		{
 			// DisplayName.SetDefault("ObamaSword"); // By default, capitalization in classnames will add spaces to the display name. You can customize the display name here by uncommenting this line.
-			Tooltip.SetDefault("This is a basic modded sword. soon to be an epic obamium weapon");
+			Tooltip.SetDefault("Forged from the cloned dna of obama himself");
 		}
 
 		public override void SetDefaults() 
@@ -19,14 +19,15 @@ namespace Obamium.Items
 			item.height = 20;
 			item.useTime = 1;
 			item.useAnimation = 15;
-			item.useStyle = 1;
+			item.useStyle = ItemUseStyleID.SwingThrow;
 			item.knockBack = 6;
 			item.value = 10000;
-			item.rare = 2;
+			item.rare = ItemRarityID.LightPurple;
 			item.UseSound = SoundID.Item1;
 			item.autoReuse = true;
 			item.shoot = mod.ProjectileType("ObamaTestProjectile");
 			item.shootSpeed = 20f;
+			
 		}
 
 		public override void AddRecipes() 
